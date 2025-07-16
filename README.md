@@ -119,12 +119,6 @@
                         <p class="text-gray-600 mb-4">Last week, I visited Chitra Resort in Narail, and it was one of the most refreshing trips I’ve had in a while. Nestled by the calm Chitra River, this place felt like a piece of paradise away from the city's chaos..</p>
                         <a href="#" class="text-indigo-600 font-medium hover:text-indigo-700 transition">Read more →</a>
 						I took a short ride from Narail town by auto-rickshaw. As I entered, I was greeted by lush greenery, quiet walking paths, and beautifully designed cottages.
-
-The entry fee was only 50 taka. Inside, there was a children’s park, swings, a mini train, and a relaxing natural atmosphere.
-I grabbed a coffee at Grounds Café and sat by the river, soaking in the peaceful view. Later, I took a serene boat ride on the river, which was the highlight of my day.
-The whole resort is well-maintained, family-friendly, and perfect for nature lovers. Time passed so smoothly that I didn’t realize when it was evening.
-By the end of the day, I felt completely recharged. Chitra Resort is truly a hidden gem in southwestern Bangladesh.
-I’ll definitely go back again!
                     </div>
                 </div>
                 
