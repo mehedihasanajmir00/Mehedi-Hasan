@@ -78,7 +78,7 @@
                         Welcome to <span class="gradient-text">My Personal Blog</span>
                     </h1>
                     <p class="text-lg text-gray-600 mb-8">
-                        Sharing thoughts, ideas, and experiences on technology, travel, and everything in between.
+                        Sharing thoughts, ideas, and experiences about work, travel, and everything in between.
                     </p>
                     <div class="flex space-x-4">
                         <a href="#blog" class="px-6 py-3 bg-indigo-600 text-white rounded-lg hover:bg-indigo-700 transition">Read Blog</a>
@@ -88,8 +88,8 @@
                 <div class="md:w-1/2 flex justify-center">
                     <div class="relative">
                         <div class="absolute -top-6 -left-6 w-32 h-32 rounded-full bg-indigo-200 opacity-50 animate-pulse"></div>
+                        <p><br /></p><div class="separator" style="clear: both; text-align: center;"><div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYBtpzvzbN4yvQ9A1p0McppzPb6eE2HVrqjQcmYJ8SKQzj73dJ9JTza1-BFEDLpGpDJiKiBHkmynXsF0MasSWnKCA3nCMtvMOEOf-ABvU3BsFWXuKX18ZigJZlxbuN-lRTdJbkZshPyQ2_QLZ25Hgjq0CjFQpykfHEF5SfeV4gIqq14yHhi4Di0oqbzIgq/s4096/1719781726987.jpg" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="2576" data-original-width="4096" height="439" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYBtpzvzbN4yvQ9A1p0McppzPb6eE2HVrqjQcmYJ8SKQzj73dJ9JTza1-BFEDLpGpDJiKiBHkmynXsF0MasSWnKCA3nCMtvMOEOf-ABvU3BsFWXuKX18ZigJZlxbuN-lRTdJbkZshPyQ2_QLZ25Hgjq0CjFQpykfHEF5SfeV4gIqq14yHhi4Di0oqbzIgq/w700-h439/1719781726987.jpg" width="700" /></a></div><br /></div><p></p><p><br /></p>
                         <div class="absolute -bottom-6 -right-6 w-32 h-32 rounded-full bg-amber-200 opacity-50 animate-pulse"></div>
-                        <img src="null" alt="Smiling person sitting at a desk with a laptop, notebook, and coffee cup in a modern home office setting" class="relative z-10 rounded-lg shadow-lg w-full max-w-md">
                     </div>
                 </div>
             </div>
@@ -104,20 +104,27 @@
                 <!-- Featured Post 1 -->
                 <div class="bg-white rounded-lg overflow-hidden shadow-md blog-card transition duration-300">
                     <div class="relative h-48 overflow-hidden">
-                        <img src="null" alt="Abstract digital art representing artificial intelligence with glowing neural network connections" class="w-full h-full object-cover">
+                     <p><br /></p><div class="separator" style="clear: both; text-align: center;"><div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYBtpzvzbN4yvQ9A1p0McppzPb6eE2HVrqjQcmYJ8SKQzj73dJ9JTza1-BFEDLpGpDJiKiBHkmynXsF0MasSWnKCA3nCMtvMOEOf-ABvU3BsFWXuKX18ZigJZlxbuN-lRTdJbkZshPyQ2_QLZ25Hgjq0CjFQpykfHEF5SfeV4gIqq14yHhi4Di0oqbzIgq/s4096/1719781726987.jpg" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="2576" data-original-width="4096" height="439" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYBtpzvzbN4yvQ9A1p0McppzPb6eE2HVrqjQcmYJ8SKQzj73dJ9JTza1-BFEDLpGpDJiKiBHkmynXsF0MasSWnKCA3nCMtvMOEOf-ABvU3BsFWXuKX18ZigJZlxbuN-lRTdJbkZshPyQ2_QLZ25Hgjq0CjFQpykfHEF5SfeV4gIqq14yHhi4Di0oqbzIgq/w700-h439/1719781726987.jpg" width="700" /></a></div><br /></div><p></p><p><br /></p>
                         <div class="absolute top-4 right-4 bg-indigo-600 text-white px-3 py-1 rounded-full text-sm font-medium">
                             Technology
                         </div>
                     </div>
                     <div class="p-6">
                         <div class="flex items-center text-sm text-gray-500 mb-2">
-                            <span>June 12, 2023</span>
+                            <span>July 12, 2025</span>
                             <span class="mx-2">•</span>
-                            <span>5 min read</span>
+                            <span>2 min read</span>
                         </div>
-                        <h3 class="text-xl font-bold text-gray-800 mb-3">The Future of AI in Everyday Life</h3>
-                        <p class="text-gray-600 mb-4">Exploring how artificial intelligence will change our daily routines and interactions with technology.</p>
+                        <h3 class="text-xl font-bold text-gray-800 mb-3">A Day at Chitra Resort, Narail</h3>
+                        <p class="text-gray-600 mb-4">Last week, I visited Chitra Resort in Narail, and it was one of the most refreshing trips I’ve had in a while. Nestled by the calm Chitra River, this place felt like a piece of paradise away from the city's chaos..</p>
                         <a href="#" class="text-indigo-600 font-medium hover:text-indigo-700 transition">Read more →</a>
+						I took a short ride from Narail town by auto-rickshaw. As I entered, I was greeted by lush greenery, quiet walking paths, and beautifully designed cottages.
+
+The entry fee was only 50 taka. Inside, there was a children’s park, swings, a mini train, and a relaxing natural atmosphere.
+I grabbed a coffee at Grounds Café and sat by the river, soaking in the peaceful view. Later, I took a serene boat ride on the river, which was the highlight of my day.
+The whole resort is well-maintained, family-friendly, and perfect for nature lovers. Time passed so smoothly that I didn’t realize when it was evening.
+By the end of the day, I felt completely recharged. Chitra Resort is truly a hidden gem in southwestern Bangladesh.
+I’ll definitely go back again!
                     </div>
                 </div>
                 
